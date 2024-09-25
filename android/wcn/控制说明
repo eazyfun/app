@@ -1,0 +1,13 @@
+目录payimg存放收码 z.jpg 和w.jpg
+
+目录zihui 存放以app内部名命名的文件.h 内容只能是zhen 或 jia
+
+ver 内容为版本号，只能是整数，1开始，每次改变后加1
+
+wpay.h 内容只能为字符 zhen 或 jia 
+
+zpay.h 内容只能为字符 zhen 或 jia 
+
+wlsk.h 内容只能为字符 zhen 或 jia 控制未成年app收款是否开启使用网络收款吗
+
+onsk.h 用于审核期关闭收款，为“guan”则关闭收款功能 为“kai”或非guan则开启全局收款
